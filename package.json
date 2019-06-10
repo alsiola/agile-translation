@@ -1,0 +1,20 @@
+{
+  "name": "agile-translation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alsiola/agile-translation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alsiola/agile-translation/issues"
+  },
+  "homepage": "https://github.com/alsiola/agile-translation#readme"
+}
