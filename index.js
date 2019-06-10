@@ -3,7 +3,8 @@ const path = require("path");
 
 const strings = {
     "app/message-one": "hello",
-    "app/message-two": "goodbye"
+    "app/message-two": "goodbye",
+    "app/message-three": "my name is alex"
 };
 
 fs.writeFileSync(
