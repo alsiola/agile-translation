@@ -2,5 +2,6 @@
   "app/message-one": "bonjour",
   "app/message-two": "au revoir",
   "app/message-three": "mon nom est Alex",
+  "app/login": "Faire un login",
   "app/message-four": "emma sent"
 }
