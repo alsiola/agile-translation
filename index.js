@@ -5,6 +5,7 @@ const strings = {
     "app/message-one": "hello",
     "app/message-two": "goodbye",
     "app/message-three": "my name is alex",
+    "app/login": "Do a login",
     "app/message-four": "emma smells"
 };
 
